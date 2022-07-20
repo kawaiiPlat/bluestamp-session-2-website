@@ -4,6 +4,8 @@ This will serve as a brief description of your project. Limit this to three sent
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Jarrod Sanders | Current Highschool | Electrical Engineering | Incoming Senior
+
+
 <img src="https://github.com/BlueStampEng/BSE_Template_Portfolio/blob/de8633f62b5da2234992a0178a6a72fd6df7e7e1/branding/BlueStamp-Logo.svg" width=996></img>
   
 # First Milestone
